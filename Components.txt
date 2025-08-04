@@ -1,0 +1,20 @@
+# Components Used
+
+
+i) NE555 Timer IC
+
+
+ii) Resistors: R1 = 56kΩ, R2 = 56kΩ, R = 8.8 or 10kΩ
+
+
+iii) Capacitor: C = 10µF, 25V
+
+
+iv) LED (1.5V–2V) any colour of choice (RGB).
+
+
+v) Power Supply: +5V DC (Make sure voltage won't cross above the rating)
+
+
+vi) Breadboard and Connecting Wires (make sure connection isn't lose and tighten properly)
+

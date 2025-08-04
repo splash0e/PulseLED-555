@@ -1,0 +1,51 @@
+About 555-timer IC
+The 555 Timer IC is one of the most popular and versatile integrated circuits ever created. 
+Introduced by Signetics in 1972, it's widely used for timing, oscillation, and pulse generation applications.
+
+
+
+Operates in 3 Modes & voltage Rating-
+
+i) Astable – generates continuous pulses (oscillator)
+
+ii) Monostable – generates a single pulse when triggered
+
+iii) Bistable – works like a flip-flop (set/reset output)
+
+iv) Wide operating voltage: 4.5V to 15V
+
+v) Can source or sink up to 200 mA of current
+
+vi) Precise timing with external resistors and capacitors
+
+PIN Configuration-
+
+| Pin | Name      | Description                          |
+| --- | --------- | ------------------------------------ |
+| 1   | GND       | Ground                               |
+| 2   | Trigger   | Starts the timing cycle (active LOW) |
+| 3   | Output    | Output signal                        |
+| 4   | Reset     | Resets the timer (active LOW)        |
+| 5   | Control   | Voltage control (usually bypassed)   |
+| 6   | Threshold | Ends timing when voltage > ⅔ Vcc     |
+| 7   | Discharge | Discharges timing capacitor          |
+| 8   | Vcc       | Supply voltage (+5V to +15V)         |
+
+
+
+# Common Applications:
+
+LED flashers
+Tone generators
+PWM signal generators
+Timed delays
+Frequency modulation
+Logic clocks
+Alarm and timer circuits
+
+
+Circuit mode-
+Astable Mode: The 555 timer is wired in astable configuration, meaning it has no stable state — it continuously 
+switches between HIGH and LOW. The LED turns ON during the HIGH cycle and OFF during the LOW cycle, creating a 
+visible blinking pattern.
+
