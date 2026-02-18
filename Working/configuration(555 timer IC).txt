@@ -48,4 +48,6 @@ Circuit mode-
 Astable Mode: The 555 timer is wired in astable configuration, meaning it has no stable state — it continuously 
 switches between HIGH and LOW. The LED turns ON during the HIGH cycle and OFF during the LOW cycle, creating a 
 visible blinking pattern.
+ 
+Mission accomplished Respect ++++
 
